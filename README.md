@@ -2,7 +2,7 @@
 
 **Teaching the next generation about AI — one robot at a time.**
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-Click%20Here-brightgreen)](https://wsamuelw.github.io/ai-for-kids/)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Click%20Here-brightgreen)](https://47096.github.io/ai-for-kids/)
 
 ---
 
@@ -93,7 +93,7 @@ A "For Parents" notice is displayed prominently on the site.
 
 ```bash
 # Clone the repo
-git clone https://github.com/wsamuelw/ai-for-kids.git
+git clone https://github.com/47096/ai-for-kids.git
 
 # Open in browser
 open ai-for-kids/index.html
@@ -101,7 +101,7 @@ open ai-for-kids/index.html
 
 ### Option 2: Visit the Live Site
 
-👉 **https://wsamuelw.github.io/ai-for-kids/**
+👉 **https://47096.github.io/ai-for-kids/**
 
 No downloads. No sign-ups. Just click and learn.
 
