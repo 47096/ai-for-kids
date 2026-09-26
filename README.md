@@ -1,6 +1,8 @@
 # Bolt's AI Adventure 🤖
 
-**Teaching the next generation about AI — one robot at a time.**
+**Free interactive AI literacy course for ages 5–7 — one robot at a time.**
+
+**Type:** Teaching product (learning, not a client case study).
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Click%20Here-brightgreen)](https://47096.github.io/ai-for-kids/)
 
@@ -271,6 +273,15 @@ Want to improve the course? Contributions welcome!
 - Safety section
 
 ---
+
+
+## Learn with me 👩‍🏫
+
+This course is the public side of how I teach AI literacy. I also **mentor early-career data people** and run practical sessions on AI tools, data judgment, and shipping with AI.
+
+**[Ask about mentoring or a workshop →](https://datafying.co/#contactus)** · [datafying](https://datafying.co/)
+
+Related learning: [`sql-for-everyone`](https://github.com/47096/sql-for-everyone) (SQL for business people).
 
 ## License 📄
 
